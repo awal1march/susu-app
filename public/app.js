@@ -1,5 +1,5 @@
 
-const API = "http://localhost:3000";
+const API = "https://susu-app-142y.onrender.com";
 
 let token = localStorage.getItem("token");
 
